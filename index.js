@@ -1,1 +1,1 @@
-console.log("kkkkk")
+console.log("000000")
